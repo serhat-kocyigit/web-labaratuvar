@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Quantum AI Platform",
+    "description": "A high-performance platform leveraging quantum algorithms for neural network optimization and data analytics.",
+    "category": "AI",
+    "completed": true,
+    "imageUrl": "https://picsum.photos/seed/ai-1/800/600"
+  },
+  {
+    "id": 2,
+    "title": "EcoTrack Mobile App",
+    "description": "Revolutionary mobile application for tracking and reducing carbon footprint in real-time, integrating IoT hardware.",
+    "category": "Mobile",
+    "completed": false,
+    "imageUrl": "https://picsum.photos/seed/mobile-1/800/600"
+  },
+  {
+    "id": 3,
+    "title": "Lumina Web Interface",
+    "description": "A glassmorphic, state-of-the-art dashboard designed for futuristic web management and data visualization.",
+    "category": "Web",
+    "completed": true,
+    "imageUrl": "https://picsum.photos/seed/web-1/800/600"
+  },
+  {
+    "id": 4,
+    "title": "Atlas Big Data Cluster",
+    "description": "Massive scale data processing architecture capable of handling petabytes of unstructured information with zero latency.",
+    "category": "Data",
+    "completed": false,
+    "imageUrl": "https://picsum.photos/seed/data-1/800/600"
+  },
+  {
+    "id": 5,
+    "title": "CyberGuard Security Hub",
+    "description": "Next-generation cybersecurity suite providing real-time threat detection and mitigation across networks.",
+    "category": "Web",
+    "completed": true,
+    "imageUrl": "https://picsum.photos/seed/security-1/800/600"
+  },
+  {
+    "id": 6,
+    "title": "HealthConnect Wearable",
+    "description": "Smart health monitoring solution designed for seamless integration with mobile devices and cloud-based services.",
+    "category": "Mobile",
+    "completed": false,
+    "imageUrl": "https://picsum.photos/seed/health-1/800/600"
+  }
+]
